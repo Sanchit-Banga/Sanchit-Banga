@@ -5,6 +5,9 @@
 
 <div id= "intro" align="center">
 <h2>cout<<"Hello Everybody, I am Sanchit just a Curious Programmer!!";</h2>
+<div id="count" align="center">
+    <img src="https://profile-counter.glitch.me/{Sanchit-Banga}/count.svg">
+</div>
 <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width=215 height=200/>
 </div>
 
@@ -44,7 +47,7 @@
 - 📫 Connect with me in Github & Twitter ..
 </div>
 
-<div id ="stat">
+<div id ="stat" align="center">
 <h2>💫 My Stats : 🔥</h2>
  <img src = "https://github-readme-stats.vercel.app/api?username=Sanchit-Banga&theme=jolly&show_icons=true"/>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sanchit-Banga&theme=dark">
