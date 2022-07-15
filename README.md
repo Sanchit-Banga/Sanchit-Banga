@@ -56,9 +56,9 @@
 </div>
 <br>
 <div id = "end" align="center">
-  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/><br>
+  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100 height=100/><br>
   <h3>That's All Geek 👋🏻</h3>
-  <img src = "https://media.giphy.com/media/3o7bu47Qm59U3MPkK4/giphy.gif"/>
+<!--   <img src = "https://media.giphy.com/media/3o7bu47Qm59U3MPkK4/giphy.gif"/> -->
 </div>
 
 
